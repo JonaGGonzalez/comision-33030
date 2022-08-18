@@ -16,6 +16,16 @@ max-width: 650px;
 margin: 0 auto;
 }
 
+.flex-index{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.flex-index img{
+    padding: 5px;
+}
+
 @media (max-width: 650px){
     hola-mundo{
         background-color: rgb(86, 209, 29);
