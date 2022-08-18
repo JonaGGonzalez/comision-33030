@@ -17,7 +17,7 @@ margin: 0 auto;
 }
 
 .hola-mundo:hover{
-    background-color: black;
+    background-color: rgb(233, 43, 43);
     transition: .3s;
 }
 
